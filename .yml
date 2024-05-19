@@ -1,0 +1,4 @@
+            - ชื่อ: ใบรับรอง macOS
+  # คุณสามารถปักหมุดการคอมมิตหรือเวอร์ชันที่แน่นอนได้
+  # ใช้: mskelton/macos-certs@052dbf288743cf3d1422e79aff3db5955733ab16
+  ใช้: mskelton/macos-certs@v1.0.0
